@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="slowpoke:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/slowpoke_war</output-path>
+    <root id="archive" name="slowpoke_war.war">
+      <element id="artifact" artifact-name="slowpoke:war exploded" />
+    </root>
+  </artifact>
+</component>

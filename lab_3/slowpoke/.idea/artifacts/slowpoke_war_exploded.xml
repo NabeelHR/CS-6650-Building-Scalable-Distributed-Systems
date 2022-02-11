@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="slowpoke:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/slowpoke_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="slowpoke/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="slowpoke" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
